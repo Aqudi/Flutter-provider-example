@@ -2,6 +2,11 @@
 
 A new Flutter application using provider.
 
+## Contents
+- [Provider](https://pub.dev/packages/provider)
+- Provider 와 Consumer 로 구성됨
+- 비교적 짧은 코드로 UI 와 Business Logic 분리 가능
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
